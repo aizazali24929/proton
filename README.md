@@ -1,6 +1,6 @@
-# These are the Prerequisites
+# These are the Prerequisites of my code
 ######
-- JDK 25 is added
+- JDK 26 is added
 - Maven 3.9 
 - MySQL 8
 
