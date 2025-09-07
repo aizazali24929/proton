@@ -1,6 +1,6 @@
-# Prerequisites
+# These are the Prerequisites
 ######
-- JDK 21
+- JDK 25 is added
 - Maven 3.9 
 - MySQL 8
 
