@@ -1,1 +1,2 @@
 This is my new file to test the git commandsin vs code
+THis is my name is Aizaz Ali Khan
